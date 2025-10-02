@@ -1,0 +1,6 @@
+---
+icon: folder-gear
+---
+
+# Administration
+
