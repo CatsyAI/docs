@@ -26,3 +26,5 @@ Adding a channel attribute
 
 How to Download Amazon Templates from Seller Central
 
+Connecting your BigCommerce store to Catsy
+
