@@ -42,4 +42,4 @@ WARNING, you’ll only be able to reveal your Admin API token once. Copy and sav
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-After you have your access token, use it to [create a Shopify channel](shopify-creating-a-channel-in-catsy.md) in Catsy.
+After you have your access token, _**save it and email it to support@catsy.com**_.
