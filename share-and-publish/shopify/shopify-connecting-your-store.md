@@ -34,7 +34,8 @@ Here are a few short steps you can take to generate and find this API access tok
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (86).png" alt="" data-size="line"> Reveal and copy your access token.
+<img src="../../.gitbook/assets/image (86).png" alt="" data-size="line"> Email your access token to support@catsy.com\
+First you have to reveal the access token and then copy&#x20;
 
 {% hint style="danger" %}
 WARNING, you’ll only be able to reveal your Admin API token once. Copy and save your Admin API access token in a secure place
