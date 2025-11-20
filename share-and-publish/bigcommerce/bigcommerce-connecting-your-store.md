@@ -12,9 +12,11 @@ To establish integration between Catsy DAM / PIM and BigCommerce, we need to con
 
 <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (110).png" alt="" data-size="line"> Click on Create API Account and select the fields you want to update with the Catsy Sync - choose Modify for Content, Marketing and Products. Save the account
+<img src="../../.gitbook/assets/image (110).png" alt="" data-size="line"> Click on Create API Account and select the fields you want to update with the Catsy Sync - choose Modify for Content, Marketing, Channel listings, Channel settings and Products. Save the account
 
 <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (1270).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../../.gitbook/assets/image (144).png" alt="" data-size="line"> Save the API credentials displayed on the screen. If you are using Chrome, Firefox, or Edge a text file containing the API token and Client ID should have been downloaded to your computer. It contains the API credentials as well.
 
