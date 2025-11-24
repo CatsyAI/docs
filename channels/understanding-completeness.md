@@ -15,8 +15,7 @@ Attributes like cost, name, and main image are required for most website imports
 
 ![](https://media-cdn.atlassian.com/file/7d77ca59-b118-4184-96a9-ff5cf2bab56f/image/cdn?allowAnimated=true\&client=8a8ba56a-a0b4-45bd-8f76-b74911670106\&collection=contentId-92504095\&height=354\&max-age=2592000\&mode=full-fit\&source=mediaCard\&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI4YThiYTU2YS1hMGI0LTQ1YmQtOGY3Ni1iNzQ5MTE2NzAxMDYiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC05MjUwNDA5NSI6WyJyZWFkIl19LCJleHAiOjE3MjkwODA0OTMsIm5iZiI6MTcyOTA3NzYxM30.-DvBYIJA2whmrIzS_lRpQnHgeRNV_JL3jYP8mj6CliE\&width=760)
 
-You can click each attribute and an entry window will pop up that will allow you to quickly populate your data into the specific attribute.\
-
+You can click each attribute and an entry window will pop up that will allow you to quickly populate your data into the specific attribute.<br>
 
 <figure><img src="../.gitbook/assets/image (1228).png" alt=""><figcaption></figcaption></figure>
 

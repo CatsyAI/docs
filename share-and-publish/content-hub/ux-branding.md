@@ -7,8 +7,7 @@ description: >-
 
 # UX Branding
 
-When you need to create new UX branding then you have to fill in the following information:\
-
+When you need to create new UX branding then you have to fill in the following information:<br>
 
 A) Add the your Brand logo
 
@@ -38,7 +37,6 @@ The finished look of your UX Branding design should resemble the example below:
 
 <figure><img src="../../.gitbook/assets/image (1030).png" alt=""><figcaption></figcaption></figure>
 
-Remember to set the Permissions for the User Roles in Step 5\
-
+Remember to set the Permissions for the User Roles in Step 5<br>
 
 <figure><img src="../../.gitbook/assets/image (1031).png" alt=""><figcaption></figcaption></figure>

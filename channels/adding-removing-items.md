@@ -19,7 +19,6 @@ Filtering & Querying Products
 
 <figure><img src="https://cforce.atlassian.net/wiki/download/attachments/5373957/image2023-2-1_15-36-19.png?version=1&#x26;modificationDate=1675258581997&#x26;cacheVersion=1&#x26;api=v2" alt=""><figcaption></figcaption></figure>
 
-Filter - This button will allow you to filter the items you have in your channel. This function works the same as the filters on the product list page but also allows you to filter your collection.\
-
+Filter - This button will allow you to filter the items you have in your channel. This function works the same as the filters on the product list page but also allows you to filter your collection.<br>
 
 <figure><img src="https://cforce.atlassian.net/wiki/download/attachments/5373957/image2023-2-1_15-36-4.png?version=1&#x26;modificationDate=1675258567107&#x26;cacheVersion=1&#x26;api=v2" alt=""><figcaption></figcaption></figure>

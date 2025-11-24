@@ -23,15 +23,13 @@ Filters can be used to filter products displayed based on Attribute filtering. T
 
 <img src="../.gitbook/assets/image (211).png" alt="" data-size="line"> Select Attribute in list or search for desired Attribute. On the next step, select what kind of condition you would like to add as part of the filter
 
-<img src="../.gitbook/assets/image (212).png" alt="" data-size="line"> When done, click 'Apply'\
-
+<img src="../.gitbook/assets/image (212).png" alt="" data-size="line"> When done, click 'Apply'<br>
 
 <figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../.gitbook/assets/image (213).png" alt="" data-size="line"> Additional filters can be added by repeating the above steps
 
-<img src="../.gitbook/assets/image (214).png" alt="" data-size="line"> Filters can be saved for convenient access and sharing with others, to do so click 'Save', found in the bottom left corner of the navigation. To share with others, be sure to check 'Share this query with my team'\
-
+<img src="../.gitbook/assets/image (214).png" alt="" data-size="line"> Filters can be saved for convenient access and sharing with others, to do so click 'Save', found in the bottom left corner of the navigation. To share with others, be sure to check 'Share this query with my team'<br>
 
 <figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
@@ -211,8 +209,7 @@ _<mark style="background-color:green;">Below are the multi-select-picklist filte
 
 ### Other Attribute Type Filter Options
 
-Other attribute types in Catsy offer similar filter options to those highlighted above, making it simple to apply the same logic when using them.\
-
+Other attribute types in Catsy offer similar filter options to those highlighted above, making it simple to apply the same logic when using them.<br>
 
 {% hint style="info" %}
 Parentage Filters

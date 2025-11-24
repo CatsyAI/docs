@@ -31,8 +31,7 @@ To create a new Collection, complete the following steps:\
 
 <img src="../.gitbook/assets/image (699).png" alt="" data-size="line"> Select which attributes should be included with the products in the collection
 
-<img src="../.gitbook/assets/image (700).png" alt="" data-size="line"> Click 'Next'\
-
+<img src="../.gitbook/assets/image (700).png" alt="" data-size="line"> Click 'Next'<br>
 
 <figure><img src="../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
 

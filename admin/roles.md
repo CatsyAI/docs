@@ -36,8 +36,7 @@ To add a new role, complete the following steps:
 
 <img src="../.gitbook/assets/image (851).png" alt="" data-size="line"> Choose whether the Role Type should be active
 
-<img src="../.gitbook/assets/image (852).png" alt="" data-size="line"> Click 'Save'\
-
+<img src="../.gitbook/assets/image (852).png" alt="" data-size="line"> Click 'Save'<br>
 
 <figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 

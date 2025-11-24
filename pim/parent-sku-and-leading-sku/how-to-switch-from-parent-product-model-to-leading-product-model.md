@@ -10,8 +10,7 @@ Making the switch from Parent Product model to Leading Product model.
 
 <img src="../../.gitbook/assets/image (1074).png" alt="" data-size="line"> Export attributes from the parent record marketing copy
 
-<img src="../../.gitbook/assets/image (1075).png" alt="" data-size="line"> In the exported file, make sure parent\_sku=sku and for remaining children, parent\_sku=parent's sku\
-
+<img src="../../.gitbook/assets/image (1075).png" alt="" data-size="line"> In the exported file, make sure parent\_sku=sku and for remaining children, parent\_sku=parent's sku<br>
 
 <figure><img src="../../.gitbook/assets/image (1069).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,8 +21,7 @@ Making the switch from Parent Product model to Leading Product model.
 <img src="../../.gitbook/assets/image (1077).png" alt="" data-size="line"> Delete the empty parents (by this step all parent items will have no children)
 
 <img src="../../.gitbook/assets/image (1078).png" alt="" data-size="line"> Now, apply the filter on "Parentage" and you will see all the options.\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (1079).png" alt=""><figcaption></figcaption></figure>
 

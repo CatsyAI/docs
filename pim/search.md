@@ -61,8 +61,7 @@ You can search for a product using a keyword from it's name.
 
 To search for multiple SKU, follow the steps below:
 
-<img src="../.gitbook/assets/image (776).png" alt="" data-size="line"> Click on the right side of the search bar\
-
+<img src="../.gitbook/assets/image (776).png" alt="" data-size="line"> Click on the right side of the search bar<br>
 
 <figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 

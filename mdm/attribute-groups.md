@@ -83,8 +83,7 @@ To add a single Attribute Group, complete the following steps:
 
 <img src="../.gitbook/assets/image (182).png" alt="" data-size="line"> Hover over 'Attributes'&#x20;
 
-<img src="../.gitbook/assets/image (183).png" alt="" data-size="line"> Click 'Attribute Groups'\
-
+<img src="../.gitbook/assets/image (183).png" alt="" data-size="line"> Click 'Attribute Groups'<br>
 
 <figure><img src="../.gitbook/assets/image (961).png" alt=""><figcaption></figcaption></figure>
 
@@ -108,8 +107,7 @@ _Creating an Attribute Group as a Product Type not only defines the attributes b
 
 <img src="../.gitbook/assets/image (188).png" alt="" data-size="line"> Select 'Add Attributes' to associate existing Attributes to the group
 
-<img src="../.gitbook/assets/image (189).png" alt="" data-size="line"> Click 'Save'\
-
+<img src="../.gitbook/assets/image (189).png" alt="" data-size="line"> Click 'Save'<br>
 
 <figure><img src="../.gitbook/assets/image (962).png" alt=""><figcaption></figcaption></figure>
 
@@ -153,15 +151,13 @@ To add existing Attributes in bulk to an Attribute Group, complete the following
 
 <img src="../.gitbook/assets/image (191).png" alt="" data-size="line"> Select an Attribute Group
 
-<img src="../.gitbook/assets/image (192).png" alt="" data-size="line"> To add existing Attributes, select 'Select Additional Attributes'\
-
+<img src="../.gitbook/assets/image (192).png" alt="" data-size="line"> To add existing Attributes, select 'Select Additional Attributes'<br>
 
 <figure><img src="../.gitbook/assets/image (963).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../.gitbook/assets/image (193).png" alt="" data-size="line"> Select Attributes to be added to the group
 
-<img src="../.gitbook/assets/image (194).png" alt="" data-size="line"> Click 'Save'\
-
+<img src="../.gitbook/assets/image (194).png" alt="" data-size="line"> Click 'Save'<br>
 
 <figure><img src="../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
 
@@ -193,8 +189,7 @@ To associate attributes within an Attribute Group to all products, change Step 4
 
 <figure><img src="../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
 
-To remove an Attribute Group from selected products, change step 4 to _Select 'Remove attribute group from specific products or variants'_:\
-
+To remove an Attribute Group from selected products, change step 4 to _Select 'Remove attribute group from specific products or variants'_:<br>
 
 <figure><img src="../.gitbook/assets/image (967).png" alt=""><figcaption></figcaption></figure>
 

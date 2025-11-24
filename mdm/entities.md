@@ -16,8 +16,7 @@ All custom entities in Catsy require a set of attributes to serve as headers for
 
 <figure><img src="../.gitbook/assets/image (970).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (815).png" alt="" data-size="line"> Select 'Custom Entity' from the tabs on the left-hand side. Create the Attribute Group to be used by the Custom Entity by clicking on 'Add Attribute Group' button:\
-
+<img src="../.gitbook/assets/image (815).png" alt="" data-size="line"> Select 'Custom Entity' from the tabs on the left-hand side. Create the Attribute Group to be used by the Custom Entity by clicking on 'Add Attribute Group' button:<br>
 
 <figure><img src="../.gitbook/assets/image (1012).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,8 +37,7 @@ For instance, we have added four Attributes, to the 'Attribute Group Demo' creat
 
 ## Create the Custom Entity itself <a href="#create_the_custom_entity_itself" id="create_the_custom_entity_itself"></a>
 
-<img src="../.gitbook/assets/image (818).png" alt="" data-size="line"> Go to _Main Menu > More > Custom Entity_, and then click on 'Add Lookup Table':\
-
+<img src="../.gitbook/assets/image (818).png" alt="" data-size="line"> Go to _Main Menu > More > Custom Entity_, and then click on 'Add Lookup Table':<br>
 
 <figure><img src="../.gitbook/assets/image (1015).png" alt=""><figcaption></figcaption></figure>
 
@@ -81,8 +79,7 @@ The following structure must be used:
 <figure><img src="../.gitbook/assets/image (1018).png" alt=""><figcaption></figcaption></figure>
 
 \
-\- And its Key will be shown:\
-
+\- And its Key will be shown:<br>
 
 <figure><img src="../.gitbook/assets/image (1019).png" alt=""><figcaption></figcaption></figure>
 
@@ -127,8 +124,7 @@ Would return the record that matches the color of the stored Product. Then that 
 
 ## Select the Custom Entity to work with <a href="#select_the_custom_entity_to_work_with" id="select_the_custom_entity_to_work_with"></a>
 
-<img src="../.gitbook/assets/image (827).png" alt="" data-size="line"> Go to _Main Menu > More > Custom Entity_\
-
+<img src="../.gitbook/assets/image (827).png" alt="" data-size="line"> Go to _Main Menu > More > Custom Entity_<br>
 
 <figure><img src="../.gitbook/assets/image (1020).png" alt=""><figcaption></figcaption></figure>
 
@@ -176,18 +172,15 @@ Caution: no dialog box will appear, the deletion will occur immediately after cl
 
 <img src="../.gitbook/assets/image (834).png" alt="" data-size="line"> Select the Custom Entity as indicated above
 
-<img src="../.gitbook/assets/image (835).png" alt="" data-size="line"> It is necessary to prepare a file containing the values beforehand. As usual, the file will contain the field keys in the first row; and below them the values of one record in each subsequent row. The easiest way to obtain a template is to export a single existing record\
-
+<img src="../.gitbook/assets/image (835).png" alt="" data-size="line"> It is necessary to prepare a file containing the values beforehand. As usual, the file will contain the field keys in the first row; and below them the values of one record in each subsequent row. The easiest way to obtain a template is to export a single existing record<br>
 
 <figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (836).png" alt="" data-size="line"> Click on the 'Import' button\
-
+<img src="../.gitbook/assets/image (836).png" alt="" data-size="line"> Click on the 'Import' button<br>
 
 <figure><img src="../.gitbook/assets/image (1027).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (837).png" alt="" data-size="line"> Once the importation process ends, a summary is provided\
-
+<img src="../.gitbook/assets/image (837).png" alt="" data-size="line"> Once the importation process ends, a summary is provided<br>
 
 <figure><img src="../.gitbook/assets/image (1028).png" alt=""><figcaption></figcaption></figure>
 

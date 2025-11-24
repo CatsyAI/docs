@@ -13,8 +13,7 @@ Catsy channels are broken into three categories: <img src="../.gitbook/assets/im
 <img src="../.gitbook/assets/image (106).png" alt="" data-size="line"> Class A Channels These are Excel channels that have either (i) embedded excel macros or (ii) special formatting rules such as read only columns, or validation buttons, or conditionally required attributes.
 
 <img src="../.gitbook/assets/image (105).png" alt="" data-size="line"> Direct Sync Channels These are channels that we directly integrate to such as Amazon, Walmart Marketplace, Shopify, BigCommerce, etc.\
-\
-
+<br>
 
 ## Share Your Content
 

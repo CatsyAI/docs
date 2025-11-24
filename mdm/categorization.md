@@ -10,8 +10,7 @@ To access the Categorization, follow the steps below:
 
 <figure><img src="../.gitbook/assets/image (929).png" alt=""><figcaption></figcaption></figure>
 
-Here you can see and edit your category tree. It contains your root categories (e.g. Power Tools), and their sub-categories (e.g. Power Drills and Power Saws):\
-
+Here you can see and edit your category tree. It contains your root categories (e.g. Power Tools), and their sub-categories (e.g. Power Drills and Power Saws):<br>
 
 <figure><img src="../.gitbook/assets/image (930).png" alt=""><figcaption></figcaption></figure>
 
@@ -23,8 +22,7 @@ Each of the categories has attributes such as name, description, image, and more
 
 ## Downloading The Category Tree
 
-You can also download the whole Category Tree by simply clicking on this <img src="../.gitbook/assets/image (780).png" alt="" data-size="line"> Download button in order for Catsy to generate a file with the structure of the categories and you’ll be ready to send it to anyone who needs this information.\
-
+You can also download the whole Category Tree by simply clicking on this <img src="../.gitbook/assets/image (780).png" alt="" data-size="line"> Download button in order for Catsy to generate a file with the structure of the categories and you’ll be ready to send it to anyone who needs this information.<br>
 
 <figure><img src="../.gitbook/assets/image (933).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,8 +32,7 @@ You can also download the whole Category Tree by simply clicking on this <img sr
 
 <img src="../.gitbook/assets/image (781).png" alt="" data-size="line"> Select the Category you want to reposition and click the 'Move' button
 
-<img src="../.gitbook/assets/image (782).png" alt="" data-size="line"> Choose its new position from the category tree and click <img src="../.gitbook/assets/image (935).png" alt="" data-size="line"> 'Save'\
-
+<img src="../.gitbook/assets/image (782).png" alt="" data-size="line"> Choose its new position from the category tree and click <img src="../.gitbook/assets/image (935).png" alt="" data-size="line"> 'Save'<br>
 
 <figure><img src="../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
 

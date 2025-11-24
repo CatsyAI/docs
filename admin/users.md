@@ -40,8 +40,7 @@ To delete a user, complete the following steps:
 
 <img src="../.gitbook/assets/image (164).png" alt="" data-size="line"> Click trash can icon
 
-<img src="../.gitbook/assets/image (162).png" alt="" data-size="line"> Enter email address to confirm deletion\
-
+<img src="../.gitbook/assets/image (162).png" alt="" data-size="line"> Enter email address to confirm deletion<br>
 
 <figure><img src="../.gitbook/assets/image (1007).png" alt=""><figcaption></figcaption></figure>
 

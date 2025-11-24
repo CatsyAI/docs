@@ -22,14 +22,12 @@ To create a Channel from an already existing spreadsheet, complete the following
 
 1. Navigate to '**Channel'**, located in the top navigation bar
 2. Click '**Install Channel'**
-3.  On the next step, select which format the template should be exported in.\
-
+3.  On the next step, select which format the template should be exported in.<br>
 
     <figure><img src="../.gitbook/assets/image (1207).png" alt=""><figcaption></figcaption></figure>
 4. On Step 1, select '**Click here if you have a template that you want the data in'**&#x20;
 5. On the next step, choose the template file
-6.  On step 3, enter the desired name for the channel being created\
-
+6.  On step 3, enter the desired name for the channel being created<br>
 
     <figure><img src="../.gitbook/assets/image (1208).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,13 +42,11 @@ On step 4, select worksheets where the data should be populated
 4. **Attribute Name Row** - select which row should contain Attribute names
 5. **Attribute Key Row** - select which row should contain Attribute keys
 6. **Validation Level Row** - select which row should contain validation level
-7.  **First Body Row** - select which row data population should begin on\
-
+7.  **First Body Row** - select which row data population should begin on<br>
 
     <figure><img src="../.gitbook/assets/image (1209).png" alt=""><figcaption></figcaption></figure>
 8. On Step 5, review the Scanned Attributes Report. Address and missing attributes, and click '**Continue'**
-9.  On Step 6, paste a list of product SKUs (separated by comma) to be included in the channel, or use the product browser by clicking on '**click here'**\
-
+9.  On Step 6, paste a list of product SKUs (separated by comma) to be included in the channel, or use the product browser by clicking on '**click here'**<br>
 
     <figure><img src="../.gitbook/assets/image (1210).png" alt=""><figcaption></figcaption></figure>
 
@@ -74,8 +70,7 @@ To create a Channel from Attributes within Catsy, complete the following steps:
 2. Select '**Install Channel'**
 3. On the next step, select which format the data should be exported in
 4. On Step 1, select '**Click here if you do not have a template and want to create the export by selecting attributes'**
-5.  On Step 2, select which Attributes should be included as part of the channel\
-
+5.  On Step 2, select which Attributes should be included as part of the channel<br>
 
     <figure><img src="../.gitbook/assets/image (1217).png" alt=""><figcaption></figcaption></figure>
 6. On the next step, enter the Channel name
@@ -87,8 +82,7 @@ To create a Channel from Attributes within Catsy, complete the following steps:
 ### Navigation Inside a Channel
 
 When a channel has been selected, there are several navigation options available in both the top and left-hand navigation bar. \
-The top navigation includes the following options: \
-
+The top navigation includes the following options: <br>
 
 <figure><img src="../.gitbook/assets/image (1218).png" alt=""><figcaption></figcaption></figure>
 
@@ -130,8 +124,7 @@ To Export a channel, complete the following steps:
    * **Added to Channel** - select a date range, and only products added within that date range will be exported
    * **Deleted from Channel** - select a date range, and only products deleted from the channel within that date range will be exported
    * **Selected Products** - only products selected prior to pressing **“Export”** will be included in the export
-   *   **All Products** - all products within the channel will be exported\
-
+   *   **All Products** - all products within the channel will be exported<br>
 
        <figure><img src="../.gitbook/assets/image (1220).png" alt=""><figcaption></figcaption></figure>
 5. On the next step, select from the following options:

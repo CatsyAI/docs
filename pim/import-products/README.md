@@ -173,13 +173,11 @@ When preparing your import file in order to bulk update the option attributes at
 \
 Add a new column called "Option Attributes" and add the option attribute keys that you'd like to give to your variants, if you need to add more than one option attribute separate the keys  by using a pipe symbol "|" as a delimiter\
 \
-Then, add columns for each option attribute so that you can add the attribute values at variant level\
-
+Then, add columns for each option attribute so that you can add the attribute values at variant level<br>
 
 <figure><img src="../../.gitbook/assets/image (1254).png" alt=""><figcaption></figcaption></figure>
 
 If you wish to set a specific sequencing for the attribute values, remember to add an additional column called "Variation Sequence" so that you can sort the values as needed by using numbers "1, 2, 3, 4, etc"\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (1255).png" alt=""><figcaption></figcaption></figure>

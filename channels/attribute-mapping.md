@@ -29,15 +29,13 @@ The attribute mapping page is where you match the channel's attributes to your m
 
 Mapping a channel attribute that is a (text) string to a master attribute.&#x20;
 
-<img src="../.gitbook/assets/image (1195).png" alt="" data-size="line"> To map a (text) string attribute inside a channel either hoover over the area highlighted in yellow or click the attribute name to bring up the selection window.\
-
+<img src="../.gitbook/assets/image (1195).png" alt="" data-size="line"> To map a (text) string attribute inside a channel either hoover over the area highlighted in yellow or click the attribute name to bring up the selection window.<br>
 
 <figure><img src="https://cforce.atlassian.net/wiki/download/thumbnails/6881327/image2022-3-8_13-7-18.png?version=1&#x26;modificationDate=1646737638794&#x26;cacheVersion=1&#x26;api=v2&#x26;width=1779&#x26;height=557" alt=""><figcaption></figcaption></figure>
 
 <img src="../.gitbook/assets/image (1196).png" alt="" data-size="line"> This popup will allow you to select the master attribute you want to populate the channel attribute with. You can use the 'Attributes search..' or scroll through the list.
 
-<img src="../.gitbook/assets/image (1197).png" alt="" data-size="line"> Make your selection and then click Save.\
-
+<img src="../.gitbook/assets/image (1197).png" alt="" data-size="line"> Make your selection and then click Save.<br>
 
 <figure><img src="https://cforce.atlassian.net/wiki/download/attachments/6881327/image2023-2-1_15-45-41.png?version=1&#x26;modificationDate=1675259143601&#x26;cacheVersion=1&#x26;api=v2" alt=""><figcaption></figcaption></figure>
 

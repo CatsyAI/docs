@@ -1,7 +1,6 @@
 # Product Dashboard
 
-The product section in Catsy houses all products. To access the section, navigate to <img src="../.gitbook/assets/image (274).png" alt="" data-size="line"> Products > <img src="../.gitbook/assets/image (275).png" alt="" data-size="line"> Products, located in the top navigation bar of Catsy.\
-
+The product section in Catsy houses all products. To access the section, navigate to <img src="../.gitbook/assets/image (274).png" alt="" data-size="line"> Products > <img src="../.gitbook/assets/image (275).png" alt="" data-size="line"> Products, located in the top navigation bar of Catsy.<br>
 
 <figure><img src="../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,8 +38,7 @@ When a product is selected, additional options become available. Hover over the 
 
 <img src="../.gitbook/assets/image (292).png" alt="" data-size="line"> Sort By - sort by any of the attributes in the current view
 
-<img src="../.gitbook/assets/image (293).png" alt="" data-size="line"> View - change between list, thumbnail and edit view\
-
+<img src="../.gitbook/assets/image (293).png" alt="" data-size="line"> View - change between list, thumbnail and edit view<br>
 
 <figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
 

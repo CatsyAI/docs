@@ -49,8 +49,7 @@ Follow these instructions for a one time set up of your data panel.&#x20;
 <img src="../.gitbook/assets/image (23).png" alt="" data-size="line"> Click "OK" to finish creating your data panel. (top right corner).
 
 <img src="../.gitbook/assets/image (24).png" alt="" data-size="line"> You should see a view like this\
-\
-
+<br>
 
 <figure><img src="https://cforce.atlassian.net/wiki/download/thumbnails/13402122/EasyCatalog_Inside_Indesign_7.png?version=1&#x26;modificationDate=1551883860857&#x26;cacheVersion=1&#x26;api=v2&#x26;width=800&#x26;height=244" alt=""><figcaption></figcaption></figure>
 

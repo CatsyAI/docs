@@ -12,8 +12,7 @@ In Catsy’s channel module you can add channel-specific attributes. Here’s ho
 
 <img src="../.gitbook/assets/image (1241).png" alt="" data-size="line"> Go to the channel you need
 
-<img src="../.gitbook/assets/image (1242).png" alt="" data-size="line"> Click on the Attribute Mapping field in the menu on the left:\
-
+<img src="../.gitbook/assets/image (1242).png" alt="" data-size="line"> Click on the Attribute Mapping field in the menu on the left:<br>
 
 <figure><img src="../.gitbook/assets/image (1236).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,8 +36,7 @@ In Catsy’s channel module you can add channel-specific attributes. Here’s ho
 
 <img src="../.gitbook/assets/image (1245).png" alt="" data-size="line"> Select product types for the attribute
 
-<img src="../.gitbook/assets/image (1246).png" alt="" data-size="line"> Enter attribute details and then click 'Continue'\
-
+<img src="../.gitbook/assets/image (1246).png" alt="" data-size="line"> Enter attribute details and then click 'Continue'<br>
 
 <figure><img src="../.gitbook/assets/image (1238).png" alt=""><figcaption></figcaption></figure>
 
