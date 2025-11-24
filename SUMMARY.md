@@ -52,6 +52,7 @@
     * [Shopify: Channel Messages](share-and-publish/shopify/shopify-channel-messages.md)
     * [Shopify: Syncing Product Metafields](share-and-publish/shopify/shopify-syncing-product-metafields.md)
   * [BigCommerce](share-and-publish/bigcommerce/README.md)
+    * [Connecting BigCommerce to Catsy](share-and-publish/bigcommerce/connecting-bigcommerce-to-catsy.md)
     * [BigCommerce: Connecting Your Store](share-and-publish/bigcommerce/bigcommerce-connecting-your-store.md)
     * [BigCommerce: Staff Permisisons](share-and-publish/bigcommerce/bigcommerce-staff-permisisons.md)
   * [Content Hub (Portals)](share-and-publish/content-hub/README.md)
@@ -93,7 +94,6 @@
   * [Understanding Completeness](channels/understanding-completeness.md)
   * [Adding a Channel Attribute](channels/adding-a-channel-attribute.md)
   * [How to Download Amazon Templates from Seller Central](channels/how-to-download-amazon-templates-from-seller-central.md)
-  * [Connecting BigCommerce to Catsy](channels/connecting-bigcommerce-to-catsy.md)
 
 ## DEMO (DELETE ME)
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # BigCommerce: Connecting Your Store
 
 To establish integration between Catsy DAM / PIM and BigCommerce, we need to connect the two systems. Please follow the below steps to create Catsy Application in the store as a 'Custom App'
