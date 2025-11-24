@@ -4,9 +4,9 @@ description: Follow the below steps to connect your BigCommerce Store to Catsy
 
 # Connecting BigCommerce to Catsy
 
-Pre-Requisites: \
+**Pre-Requisites:** \
 (a) Catsy Account with admin access. \
-(b) BigCommerce Store access with admin credentials?
+(b) BigCommerce Store access with admin credentials
 
 Step 1: **Find Catsy App**
 
