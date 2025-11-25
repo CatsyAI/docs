@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # BigCommerce: Staff Permisisons
 
 <img src="../../.gitbook/assets/image (140).png" alt="" data-size="line"> Go to Settings
