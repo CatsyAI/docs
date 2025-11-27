@@ -1,6 +1,22 @@
+---
+description: >-
+  Supercharge your product catalog with Catsy PIM's robust import tool—designed
+  for seamless bulk uploads of new or updated data, including variants, custom
+  attributes, and picklists.
+---
+
 # Import Products
 
-**When importing products, focus on these main topics:**
+**How It Works – Easy Steps:**
+
+1. Head to _Products > Easy Import_ and select _Import Products_.
+2. Upload your CSV/Excel file with a main identifier column (e.g., SKU) and attribute headers.
+3. Auto-map matching headers; manually adjust others for precision.
+4. Handle variants: Import parents first, then variants with parent SKUs and _Option Attributes_ (pipe-delimited keys) plus _Variation Sequence_ for ordering.
+5. For assets, reference URLs or filenames; categories use hierarchical paths <mark style="color:orange;">(e.g., root > level 1).</mark>
+6. Review mapping, then import—large jobs (>500 items) queue in _Import/Export Jobs_ for tracking.
+
+Pro tips: Pre-create categories, validate data types (e.g., integers only), and download error logs post-validation. Advanced options let you skip creations, auto-build picklists, or delete empties.<br>
 
 1. [Easy Import](./#easy-import)
 2. [Advanced options](./#advanced-options)

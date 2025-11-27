@@ -1,6 +1,15 @@
 # Filters
 
-There are several ways to work with filters in Catsy:
+Catsy PIM’s powerful filtering system turns massive product catalogs into instantly searchable, actionable views. Combine dozens of conditions—attributes, categories, completeness scores, asset status, workflow states, tags, creation dates, and more—to slice data exactly how you need it, whether auditing, enriching, exporting, or syndicating.
+
+**Key Features:**
+
+* Filter by any attribute type (text, numbers, dates, picklists, booleans, multi-select).
+* Use dynamic filters like “Completeness < 80%”, “Missing primary image”, “No price for Channel X”, or “Updated in last 7 days”.
+* Save filters as reusable presets for teams (e.g., “Ready for Amazon”, “Needs Marketing Review”).
+* Apply bulk actions instantly: edit, export, assign tasks, or push to channels.
+
+Results are real-time and lightning-fast, even across millions of SKUs. Merchants report cutting data cleanup time by 75% and eliminating errors from outdated spreadsheets.
 
 1. [Creating filters](filters.md#create-a-filter)
 2. [Saving filters](filters.md#save-a-filter)

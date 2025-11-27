@@ -1,10 +1,21 @@
 # Export Products
 
-**When exporting products, focus on these main topics:**
+Unlock the power of Catsy PIM's export functionality to seamlessly pull product data for analysis, sharing, or integration. Designed for efficiency, this feature generates customizable spreadsheets of your products, complete with attributes and digital assets, delivered straight to your inbox. Perfect for merchants scaling multi-channel operations, it handles everything from quick selections to massive datasets without downtime.
 
-1. [Main product export](export-products.md#main-product-export)
-2. [Large exports](export-products.md#large-exports)
-3. [Advanced export options](export-products.md#advanced-export-options)
+**How It Works – Simple Steps:**
+
+1. Navigate to Products in the Catsy app and select items (specific SKUs, page views, or all).
+2. Hit 'Export' and input the recipient's email.
+3. Choose attributes to include, customizing columns with friendly names or keys.
+4. Opt for asset handling: embed URLs, thumbnails, filenames, or download zipped archives.
+5. For exports over 500 items, track progress in the dedicated Import/Export Jobs dashboard.
+
+\
+[Main product export](export-products.md#main-product-export)
+
+[Large exports](export-products.md#large-exports)
+
+[Advanced export options](export-products.md#advanced-export-options)
 
 ### Main product export
 
