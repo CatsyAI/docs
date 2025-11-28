@@ -1,3 +1,10 @@
+---
+description: >-
+  Effective product information management begins with attributes. Attributes
+  are the structured pieces of data such as size, color, material, or UPC that
+  define and differentiate your products
+---
+
 # Create Attributes
 
 ## Adding New Attributes
