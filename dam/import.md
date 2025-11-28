@@ -93,6 +93,26 @@ The assets are now being uploaded and will soon be ready to be linked to your pr
 
 <img src="../.gitbook/assets/image (526).png" alt="" data-size="line"> Upload a file that contains one column with product numbers and another column with the main image attribute name and corresponding URL to an image
 
+### Adding metadata during asset upload
+
+<img src="../.gitbook/assets/image (472).png" alt="" data-size="line"> Go to [https://app.catsy.com/app/digital-assets](https://app.catsy.com/app/digital-assets)
+
+<img src="../.gitbook/assets/image (473).png" alt="" data-size="line"> Click the 'Upload' button on the left.
+
+<figure><img src="../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
+
+<img src="../.gitbook/assets/image (474).png" alt="" data-size="line"> Drag & drop your files from your computer folder
+
+<figure><img src="../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure>
+
+<img src="../.gitbook/assets/image (1243).png" alt="" data-size="line"> Click on "Add Metadata" to full in the asset attribute values
+
+<figure><img src="../.gitbook/assets/asset-metadata-4.png" alt=""><figcaption></figcaption></figure>
+
+<img src="../.gitbook/assets/image (1244).png" alt="" data-size="line"> Type in the data and click "Continue"<br>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 For more information on product data uploads, please review our [Import Products](../pim/import-products/) section.
 {% endhint %}
