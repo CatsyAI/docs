@@ -8,7 +8,7 @@ icon: images
 
 # Digital Asset Management
 
-<figure><img src="../.gitbook/assets/Copy of Banner (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Copy of Banner (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Manage And Share Your Assets
 
