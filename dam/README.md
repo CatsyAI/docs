@@ -4,11 +4,11 @@ description: >-
   truth. Catsy eliminates duplicates, keeps version history and automates asset
   transformations while linking to your products.
 icon: images
-cover: https://catsy.com/assets/dam-page/pim-dam-export-assets-share.png
-coverY: 0
 ---
 
 # Digital Asset Management
+
+<figure><img src="../.gitbook/assets/Copy of Banner (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Manage And Share Your Assets
 
