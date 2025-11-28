@@ -4,12 +4,11 @@ description: >-
   the accuracy, consistency, and completeness of product information.
   Centralizing your product information starts here.
 icon: memo-circle-info
-cover: >-
-  https://catsy.com/assets/pim-page/pim-one-source-of-truth-product-information.png
-coverY: 0
 ---
 
 # Product Information Management
+
+<figure><img src="../.gitbook/assets/pim-details-asset.jpg" alt=""><figcaption></figcaption></figure>
 
 ### One Source Of Truth For All Product Information
 
