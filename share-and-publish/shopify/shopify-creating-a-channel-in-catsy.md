@@ -4,7 +4,7 @@
 
 <img src="../../.gitbook/assets/spaces_F0lzGDGC1x4ZcLaSdYAx_uploads_geAzeF2KfTzuIWcwi7W4_image.webp" alt="" data-size="line"> Follow the instructions and add your channel's URL and Access token
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../../.gitbook/assets/spaces_F0lzGDGC1x4ZcLaSdYAx_uploads_VaMzs3eB6LCVMcpU6HaI_image.webp" alt="" data-size="line"> Go to the Attributes tab of your channel and map the following attributes:
 
