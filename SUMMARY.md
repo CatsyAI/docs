@@ -94,6 +94,7 @@
   * [Understanding Completeness](channels/understanding-completeness.md)
   * [Adding a Channel Attribute](channels/adding-a-channel-attribute.md)
   * [How to Download Amazon Templates from Seller Central](channels/how-to-download-amazon-templates-from-seller-central.md)
+  * [WooCommerce Integration](channels/woocommerce-integration.md)
 
 ## DEMO (DELETE ME)
 

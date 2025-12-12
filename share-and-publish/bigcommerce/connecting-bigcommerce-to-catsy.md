@@ -4,7 +4,7 @@ description: Follow the below steps to connect your BigCommerce Store to Catsy
 
 # Connecting BigCommerce to Catsy
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="line"> Prerequisites - you need:\
+<img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> Prerequisites - you need:\
 \- a Catsy account with admin access. If you don't have admin access, please contact us at support@catsy.com\
 \- access to your BigCommerce Store **as an admin** as well
 
@@ -14,7 +14,7 @@ description: Follow the below steps to connect your BigCommerce Store to Catsy
 
 <figure><img src="../../.gitbook/assets/Find Catsy PIM &#x26; DAM app.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (1).png" alt="" data-size="line"> Confirm store access to the Catsy app
+<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> Confirm store access to the Catsy app
 
 <figure><img src="../../.gitbook/assets/Confirm_Access_to_CatsyApp.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Confirm that the store report displayed in the Catsy channel matches the store h
 
 <figure><img src="../../.gitbook/assets/View_Store_Report_In_Channel.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> Import Store Products into Catsy
+<img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> Import Store Products into Catsy
 
 Navigate to _**Channels → {Catsy Channel} → Import from Store → Import Products**._ This action pulls product data from your store into Catsy. During this process, Catsy automatically:
 
@@ -47,7 +47,7 @@ After this import completes, the channel is fully initialized and ready for you 
 
 <figure><img src="../../.gitbook/assets/Import_Store_Products_In_Catsy.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> Give support@catsy.com staff permissions
+<img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> Give support@catsy.com staff permissions
 
 * Go to BigCommerce settings
 
