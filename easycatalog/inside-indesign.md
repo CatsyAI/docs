@@ -1,10 +1,10 @@
 # Inside InDesign
 
-<img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> [Pulling Data Into InDesign](inside-indesign.md#pulling-data-into-indesign)
+<img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="line"> [Pulling Data Into InDesign](inside-indesign.md#pulling-data-into-indesign)
 
-<img src="../.gitbook/assets/image (9).png" alt="" data-size="line"> [Image and Grouping Settings](inside-indesign.md#image-and-grouping-settings)
+<img src="../.gitbook/assets/image (9) (1).png" alt="" data-size="line"> [Image and Grouping Settings](inside-indesign.md#image-and-grouping-settings)
 
-<img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> [Creating a Template and Insert Field Specifiers](inside-indesign.md#creating-a-template-and-insert-field-specifiers)
+<img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="line"> [Creating a Template and Insert Field Specifiers](inside-indesign.md#creating-a-template-and-insert-field-specifiers)
 
 <img src="../.gitbook/assets/image (11).png" alt="" data-size="line"> [Refreshing Your Documents](inside-indesign.md#refreshing-your-documents)
 
