@@ -111,7 +111,7 @@ The assets are now being uploaded and will soon be ready to be linked to your pr
 
 <img src="../.gitbook/assets/image (1244).png" alt="" data-size="line"> Type in the data and click "Continue"<br>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For more information on product data uploads, please review our [Import Products](../pim/import-products/) section.

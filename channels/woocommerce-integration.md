@@ -11,7 +11,7 @@ Step 1 - We create a WooCommerce Channel for you in Catsy after you share a list
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 \
@@ -19,13 +19,13 @@ Step 1 - We create a WooCommerce Channel for you in Catsy after you share a list
 \
 Step 2 - You add the products that you want to publish on your website and ensure that the proper channel attribute mapping has been set and you have selected the correct data source for you so that the attribute data can flow from your Master Attributes in Catsy
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 Step 4 - Catsy provides a product data export that you can use to populate the product data on your website
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>

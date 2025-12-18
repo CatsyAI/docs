@@ -52,6 +52,8 @@
     * [Shopify: Channel Messages](share-and-publish/shopify/shopify-channel-messages.md)
     * [Shopify: Syncing Product Metafields](share-and-publish/shopify/shopify-syncing-product-metafields.md)
     * [Shopify User Guide](share-and-publish/shopify/shopify-user-guide.md)
+    * [What is Re-Link](share-and-publish/shopify/what-is-re-link.md)
+    * [What is Import ID](share-and-publish/shopify/what-is-import-id.md)
   * [BigCommerce](share-and-publish/bigcommerce/README.md)
     * [Connecting BigCommerce to Catsy](share-and-publish/bigcommerce/connecting-bigcommerce-to-catsy.md)
     * [BigCommerce: Connecting Your Store](share-and-publish/bigcommerce/bigcommerce-connecting-your-store.md)
