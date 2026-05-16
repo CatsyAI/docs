@@ -16,6 +16,7 @@
   * [Filters](dam/filters.md)
   * [Additional Filters via Edit View](dam/additional-filters-via-edit-view.md)
   * [Link Assets to Products](dam/link-assets-to-products.md)
+  * [Import ALT Text](dam/import-alt-text.md)
 * [Product Information Management](pim/README.md)
   * [Import Products](pim/import-products/README.md)
     * [How to fix scientific notation around UPC for your import](pim/import-products/how-to-fix-scientific-notation-around-upc-for-your-import.md)
