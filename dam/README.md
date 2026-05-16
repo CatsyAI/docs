@@ -4,11 +4,30 @@ description: >-
   truth. Catsy eliminates duplicates, keeps version history and automates asset
   transformations while linking to your products.
 icon: images
+cover: ../.gitbook/assets/catsy-dam-cover.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Digital Asset Management
-
-<figure><img src="../.gitbook/assets/Copy of Banner (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Manage And Share Your Assets
 
