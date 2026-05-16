@@ -17,7 +17,7 @@ coverY: 0
 6. Channel Sync Messages
 7. Common Mistakes to Avoid
 
-### <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> Products in Catsy and Shopify
+### <img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> Products in Catsy and Shopify
 
 Understanding how Catsy product structures translate into Shopify is critical before syncing.
 
@@ -37,7 +37,7 @@ Badly setup structure in Catsy leads directly to issues in Shopify such as:
 * Inconsistent swatches and filters
 {% endhint %}
 
-### <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> Preparing Your Product Data
+### <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> Preparing Your Product Data
 
 _**Standardize Product Structure**_
 
@@ -73,7 +73,7 @@ If a SKU or handle changes unexpectedly, Shopify treats the product as new, caus
 
 {% endhint %}
 
-### <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> Shopify Channel Setup in Catsy
+### <img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> Shopify Channel Setup in Catsy
 
 When configuring your Shopify channel in Catsy, you define:
 
@@ -180,7 +180,7 @@ Sync and see the data in metafields in Shopify:
 
 <figure><img src="../../.gitbook/assets/image (927).png" alt=""><figcaption></figcaption></figure>
 
-### <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> Sync Process
+### <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="line"> Sync Process
 
 Catsy uses **delta-based syncing**, meaning only detected changes are sent to Shopify. Here are the sync actions that make up the sync process:
 
@@ -216,7 +216,7 @@ _**Delete Threshold (Most Important)**_
 * Protects against large accidental deletions
 * Variant deletions caused by parent restructuring still respect thresholds
 
-### <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> Channel Sync Messages
+### <img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> Channel Sync Messages
 
 Here is a list of common errors when syncing to Shopify: [https://catsyhq.gitbook.io/docs/share-and-publish/shopify/shopify-channel-messages](https://catsyhq.gitbook.io/docs/share-and-publish/shopify/shopify-channel-messages)
 
