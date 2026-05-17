@@ -19,8 +19,10 @@ Here is how to do this:
 
 <img src="../.gitbook/assets/image (406).png" alt="" data-size="line"> Go to [https://app.catsy.com/app/digital-assets](https://app.catsy.com/app/digital-assets) and apply a filter to draw out the assets that you need to export. To apply a filter, click on 'Add Filter'
 
-<figure><img src="../.gitbook/assets/image (859).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+\
+\
 <img src="../.gitbook/assets/image (407).png" alt="" data-size="line"> Build your filter and drop the asset filenames that you would like to export in the filed
 
 <figure><img src="../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
@@ -31,15 +33,22 @@ Select the assets that you want to export by:
 
 or by&#x20;
 
-<img src="../.gitbook/assets/image (409).png" alt="" data-size="line"> selecting all assets.
+<img src="../.gitbook/assets/image (409).png" alt="" data-size="line"> Selecting all assets.
 
 <img src="../.gitbook/assets/image (410).png" alt="" data-size="line"> Click on the 'Export Assets' button
 
-<figure><img src="../.gitbook/assets/image (862).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (412).png" alt="" data-size="line"> Select your desired format and click 'Continue'
+\
+<img src="../.gitbook/assets/image (412).png" alt="" data-size="line"> Select your desired format and click 'Continue'\
+<br>
 
-<img src="../.gitbook/assets/image (413).png" alt="" data-size="line"> Enter the email address you want the file sent to and click 'Submit'
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<img src="../.gitbook/assets/image (413).png" alt="" data-size="line"> Enter the email address you want the file sent to and click 'Submit'\
+<br>
+
+<figure><img src="../.gitbook/assets/image (1291).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Large exports may take longer. Please check your email and your spam folder.

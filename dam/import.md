@@ -25,7 +25,7 @@ For this method to work, you need digital assets on your local computer. This is
 <img src="../.gitbook/assets/image (473).png" alt="" data-size="line"> Click the 'Upload' button on the left.\
 <br>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../.gitbook/assets/image (474).png" alt="" data-size="line"> Drag & drop your files from your computer folder
 
@@ -53,7 +53,7 @@ Limitations of this method:
 <img src="../.gitbook/assets/image (473).png" alt="" data-size="line"> Click the 'Upload' button on the left.\
 <br>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../.gitbook/assets/image (474).png" alt="" data-size="line"> Select 'Upload URLs'
 
@@ -70,7 +70,7 @@ Limitations of this method:
 <img src="../.gitbook/assets/image (473).png" alt="" data-size="line"> Click the 'Upload' button on the left.\
 <br>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 \

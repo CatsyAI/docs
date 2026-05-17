@@ -29,14 +29,14 @@ In the Shopify channel product view:
 
 Once enabled, you will see a 'Re-link IDs of selected products button' under the three dot menu at the top:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### <img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> Generate Re-link and Sync
+#### <img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> Generate Re-link and Sync
 
 * Click on the 'Re-link IDs of selected products button'
 * Head over to Settings > Relink Ids in the left menu to check the progress of your re-link:
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### <img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> Why Re-linking is important
 
