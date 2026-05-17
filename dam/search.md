@@ -14,11 +14,13 @@ Go to [https://app.catsy.com/app/digital-assets](https://app.catsy.com/app/digit
 
 <img src="../.gitbook/assets/image (616).png" alt="" data-size="line"> You can search for multiple assets using the configuration icon on the search bar to the right
 
-<figure><img src="../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1292).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (617).png" alt="" data-size="line"> Paste/type the asset filenames one per row in the field box and click on <img src="../.gitbook/assets/image (618).png" alt="" data-size="line"> 'Search'
+\
+\
+<img src="../.gitbook/assets/image (617).png" alt="" data-size="line"> Paste/type the asset filenames one per row in the field box and click on <img src="../.gitbook/assets/image (618).png" alt="" data-size="line"> 'Search'<br>
 
-<figure><img src="../.gitbook/assets/image (672).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1293).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You can also use the configuration icon to search for assets that contain a certain word
@@ -26,8 +28,12 @@ You can also use the configuration icon to search for assets that contain a cert
 
 <img src="../.gitbook/assets/image (619).png" alt="" data-size="line"> To find assets that contain a certain word, fill in the field box and check the <img src="../.gitbook/assets/image (621).png" alt="" data-size="line"> 'Contains' box. Then click on <img src="../.gitbook/assets/image (622).png" alt="" data-size="line"> 'Search'
 
-<figure><img src="../.gitbook/assets/image (673).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1294).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (623).png" alt="" data-size="line"> You can clear your field box by clicking on the 'Clear' button
+\
+\
+<img src="../.gitbook/assets/image (623).png" alt="" data-size="line"> You can clear your field box by clicking on the 'Clear' button\
+\
+<br>
 
-<figure><img src="../.gitbook/assets/image (674).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1296).png" alt=""><figcaption></figcaption></figure>
