@@ -35,11 +35,11 @@ Save the file and re-upload it.
 <figure><img src="../.gitbook/assets/image (1301).png" alt=""><figcaption></figcaption></figure>
 
 \
-\
 <img src="../.gitbook/assets/image (1287).png" alt="" data-size="line"> Confirm the field mapping is correct — `FILENAME` should map to `FILENAME` and `ALT_TEXT` should map to `ALT TEXT`. When the indicator shows **"2 / 2 Attributes Mapped,"** click **Next**.
 
-<figure><img src="../.gitbook/assets/image (1279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1302).png" alt=""><figcaption></figcaption></figure>
 
+\
 <img src="../.gitbook/assets/image (1288).png" alt="" data-size="line"> Review the **Validation** results. If errors are detected (red banner), click **Export Full Validation Report**, fix the issues in your spreadsheet, then use **Return to Import** to re-upload.
 
 <figure><img src="../.gitbook/assets/image (1280).png" alt=""><figcaption></figcaption></figure>
