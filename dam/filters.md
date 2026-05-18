@@ -26,9 +26,10 @@ Extensions typically refers to a file name extension. This suffix is added to th
 
 <img src="../.gitbook/assets/image (553).png" alt="" data-size="line"> Asset Type
 
-Asset type are digital asset attributes that you can filter by.
+Asset type are digital asset attributes that you can filter by.\
+<br>
 
-<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1297).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
