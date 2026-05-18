@@ -24,17 +24,19 @@ A step-by-step walkthrough for bulk-updating alt text (or any other asset metada
 <img src="../.gitbook/assets/image (1285).png" alt="" data-size="line"> Click **"Download .xlsx import template file"** to grab the template. Open it and structure your data in two columns:
 
 * Column A — `filename` (the exact filename of the asset already in Catsy)
-* Column B — `title_a` (the alt text value)
+* Column B — `alt_text` (the alt text value)
 
 Save the file and re-upload it.
 
-<figure><img src="../.gitbook/assets/image (1277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1300).png" alt=""><figcaption></figcaption></figure>
 
 <img src="../.gitbook/assets/image (1286).png" alt="" data-size="line"> When prompted to **"Choose Primary Attribute,"** open the identifier dropdown and select **filename**. This tells Catsy which column to match against existing assets.
 
-<figure><img src="../.gitbook/assets/image (1278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1301).png" alt=""><figcaption></figcaption></figure>
 
-<img src="../.gitbook/assets/image (1287).png" alt="" data-size="line"> Confirm the field mapping is correct — `FILENAME` should map to `FILENAME` and `TITLE_A` should map to `ALT TEXT`. When the indicator shows **"2 / 2 Attributes Mapped,"** click **Next**.
+\
+\
+<img src="../.gitbook/assets/image (1287).png" alt="" data-size="line"> Confirm the field mapping is correct — `FILENAME` should map to `FILENAME` and `ALT_TEXT` should map to `ALT TEXT`. When the indicator shows **"2 / 2 Attributes Mapped,"** click **Next**.
 
 <figure><img src="../.gitbook/assets/image (1279).png" alt=""><figcaption></figcaption></figure>
 
