@@ -13,8 +13,10 @@ A step-by-step walkthrough for bulk-updating alt text (or any other asset metada
 
 <img src="../.gitbook/assets/image (1283).png" alt="" data-size="line"> In the top navigation, click **Assets → Easy Import**.
 
-<figure><img src="../.gitbook/assets/image (1275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1299).png" alt=""><figcaption></figcaption></figure>
 
+\
+\
 <img src="../.gitbook/assets/image (1284).png" alt="" data-size="line"> Select the **Import Asset Metadata** tile and click **Continue**.
 
 <figure><img src="../.gitbook/assets/image (1276).png" alt=""><figcaption></figcaption></figure>
