@@ -1,6 +1,6 @@
 ---
 icon: database
-cover: ../.gitbook/assets/Governance_banner-KB.png
+cover: ../.gitbook/assets/Governance Cover (1).png
 coverY: 0
 layout:
   width: default
@@ -20,6 +20,8 @@ layout:
   metadata:
     visible: true
   tags:
+    visible: true
+  actions:
     visible: true
 ---
 
