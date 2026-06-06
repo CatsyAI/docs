@@ -3,6 +3,24 @@ description: >-
   Digital assets are product images, marketing assets, videos, PDFs, excel
   files, or CAD drawings. There are four methods to importing digital assets
   with Catsy.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Import Assets

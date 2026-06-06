@@ -4,7 +4,7 @@ description: >-
   the accuracy, consistency, and completeness of product information.
   Centralizing your product information starts here.
 icon: memo-circle-info
-cover: ../.gitbook/assets/catsy-pim-banner.png
+cover: ../.gitbook/assets/pim_banner.png
 coverY: 0
 layout:
   width: default
@@ -24,6 +24,8 @@ layout:
   metadata:
     visible: true
   tags:
+    visible: true
+  actions:
     visible: true
 ---
 
