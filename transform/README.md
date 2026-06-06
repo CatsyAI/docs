@@ -3,6 +3,8 @@ description: >-
   In Catsy transforming content falls into two broad categories: Data
   transformation and Image transformation.
 icon: transporter-1
+cover: ../.gitbook/assets/Transform Cover.png
+coverY: 0
 ---
 
 # Transform Content
