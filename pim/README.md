@@ -4,7 +4,7 @@ description: >-
   the accuracy, consistency, and completeness of product information.
   Centralizing your product information starts here.
 icon: memo-circle-info
-cover: ../.gitbook/assets/Product Cover PIM article.png
+cover: ../.gitbook/assets/PIMCover.png
 coverY: 0
 layout:
   width: default
